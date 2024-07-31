@@ -27,6 +27,7 @@ This repository contains a collection of C programs demonstrating fundamental pr
 | Function                      | [DAY 17](https://github.com/nishan023/programming_concepts/tree/master/DAY_17) |
 | Function                      | [DAY 18](https://github.com/nishan023/programming_concepts/tree/master/DAY_18) |
 | Recursive Function            | [DAY 19](https://github.com/nishan023/programming_concepts/tree/master/DAY_19) |
+| Introduction to HTML          | [DAY 20](https://github.com/nishan023/programming_concepts/tree/master/DAY_20) |
 
 </div>
 
